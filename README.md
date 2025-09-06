@@ -1,0 +1,2 @@
+# jade
+use for blog
